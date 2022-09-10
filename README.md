@@ -18,10 +18,10 @@ purposes. See deployment for notes on how to deploy the project on a live system
 
 A step by step series of examples that tell you how to get a development env running
 
-**Start the python app in Linux environment**
+**Start the python app in Linux / Windows environment**
 
 ```bash
-python3 app
+python3 app.py
 ```
 
 ### Usage
