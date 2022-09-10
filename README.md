@@ -29,6 +29,7 @@ python3 app
 API: http://127.0.0.1:8080/createUser
 METHOD: POST
 INPUT: {"username":"vishnu_prasad","password":"****","age":25}
+REPOSNE: {"status":"success"}
 ```
 
 * **Vishnu Prasad** - [@vishnu](https://github.com/VishApp)
