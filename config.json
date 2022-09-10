@@ -1,0 +1,7 @@
+{
+  "token": "B1n0FlddHVnfBLeAkC",
+  "host": "127.0.0.1",
+  "port": 8080,
+  "mongo_port": 27017,
+  "mongo_host": "127.0.0.1"
+}
